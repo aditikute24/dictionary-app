@@ -1,6 +1,6 @@
 # Dictionary-App 📖
 
-Dictionary App using HTML , CSS , SCSS , Javascript API
+*Dictionary App using HTML , CSS , SCSS , Javascript API*
 
 **[LIVE DEMO]( https://aditikute24.github.io/dictionary-app/)**
 
